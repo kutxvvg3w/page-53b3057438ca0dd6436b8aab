@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "0103ba548a8409f2ada9e452",
+  "owner": "kutxvvg3w",
+  "repo": "page-53b3057438ca0dd6436b8aab",
+  "title": "PFvpn",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "53b3057438ca0dd6436b8aab",
+      "a": "PFvpn",
+      "b": "",
+      "entity": "PFvpn",
+      "brand": "PFvpn",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9286e9df83e17f4709ae1bd72bf377cd3309f7e5d6b557934551548609ef1864",
+      "content": {
+        "keyword1": "PFvpn",
+        "keyword2": "",
+        "primary_entity": "PFvpn",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "PFvpn 提供基础版、旗舰版与团队版三种方案，以下为价格、设备数量、流量及常见问题的清单说明。",
+          "AI_DESCRIPTION": "PFvpn 提供基础版、旗舰版与团队版三种方案，以下为价格、设备数量、流量及常见问题的清单说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*, *::before, *::after {box-sizing: border-box}\nbody {margin: 0;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;color: #111;background: #fff;line-height: 1.6}\na {color: #ff4d00;text-decoration: none}\na:hover {text-decoration: underline}\nheader.hero {border-bottom: 3px solid #ff4d00;background: #fff}\n.band {border-bottom: 1px solid #eee;padding: 24px 32px}\n.band.orange {background: #ff4d00;color: #fff;border-bottom: none}\n.band.orange a {color: #111;background: #fff;padding: 2px 8px;border-radius: 2px}\n.band h1 {margin: 0;font-size: clamp(28px, 5vw, 56px);letter-spacing: -0.02em}\n.band .lead {margin: 12px 0 0;font-size: 16px;max-width: 640px}\n.band .links {display: flex;flex-wrap: wrap;gap: 12px;font-size: 14px;margin-top: 10px}\nmain {max-width: 1100px;margin: 0 auto;padding: 32px 24px 64px}\nsection {margin-bottom: 56px}\nh2 {font-size: 24px;margin: 0 0 16px;padding-bottom: 8px;border-bottom: 2px solid #111}\np, ul {margin: 0 0 12px}\nul.checklist {list-style: none;padding: 0;margin: 0}\nul.checklist li {border: 1px dashed #bbb;padding: 12px 14px;margin-bottom: 10px;background: #fff;position: relative}\nul.checklist li::before {content: \"•\";color: #ff4d00;font-weight: bold;margin-right: 8px}\ntable.plans {width: 100%;border-collapse: collapse;font-size: 14px}\ntable.plans th, table.plans td {border: 1px solid #ddd;padding: 12px;text-align: left;vertical-align: top}\ntable.plans th {background: #f7f7f7}\ntable.plans th.featured {background: #ff4d00;color: #fff}\ntable.plans td.featured-col {background: #fff7f3}\n.tag {display: inline-block;font-size: 12px;padding: 2px 6px;background: #ff4d00;color: #fff;border-radius: 2px;margin-left: 6px}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 20px}\n.faq-item {border: 1px dashed #bbb;padding: 16px}\n.faq-item h3 {margin: 0 0 8px;font-size: 16px}\n.faq-item p {margin: 0;font-size: 14px}\nfooter {border-top: 3px solid #ff4d00;padding: 24px 32px;font-size: 13px;color: #555}\nfooter a {color: #111}\n@media (max-width: 720px) {\n  .faq-grid {grid-template-columns: 1fr}\n  table.plans {font-size: 13px}\n  table.plans th, table.plans td {padding: 8px}\n}\n</style><header class=\"hero\">\n  <div class=\"band\">\n    <h1>PFvpn</h1>\n    <p class=\"lead\">本页以清单方式列出 PFvpn 的套餐内容、使用要点与常见问题，方便直接对照选择。</p>\n  </div>\n  <div class=\"band orange\">\n    <p>本页包含：<a href=\"#plans\">套餐对比</a> · <a href=\"#usage\">使用说明</a> · <a href=\"#faq\">常见问题</a></p>\n  </div>\n</header>\n\n<main>\n\n  <section id=\"plans\">\n    <h2>套餐对比</h2>\n    <p>以下为三种方案的横向对比，价格、流量与设备数量均为本页收录内容。</p>\n    <div>\n      <table class=\"plans\">\n        <thead>\n          <tr>\n            <th>项目</th>\n            <th>基础版</th>\n            <th class=\"featured\">旗舰版<span class=\"tag\">推荐</span></th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>月价</td>\n            <td>¥15/月</td>\n            <td class=\"featured-col\">¥35/月</td>\n            <td>¥85/月</td>\n          </tr>\n          <tr>\n            <td>年付价格</td>\n            <td>¥150/年</td>\n            <td class=\"featured-col\">¥350/年</td>\n            <td>¥850/年</td>\n          </tr>\n          <tr>\n            <td>每月流量</td>\n            <td>100GB</td>\n            <td class=\"featured-col\">300GB</td>\n            <td>1000GB</td>\n          </tr>\n          <tr>\n            <td>同时在线设备</td>\n            <td>3 台</td>\n            <td class=\"featured-col\">5 台</td>\n            <td>20 台</td>\n          </tr>\n          <tr>\n            <td>流媒体解锁</td>\n            <td>基础流媒体</td>\n            <td class=\"featured-col\">全节点原生解锁</td>\n            <td>VIP 专属高带宽节点</td>\n          </tr>\n          <tr>\n            <td>线路与节点</td>\n            <td>普通线路节点池</td>\n            <td class=\"featured-col\">IPLC 专线游戏加速优化</td>\n            <td>支持企业定制路由</td>\n          </tr>\n          <tr>\n            <td>售后支持</td>\n            <td>普通工单</td>\n            <td class=\"featured-col\">7x24 优先工单</td>\n            <td>专属客户经理</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"usage\">\n    <h2>使用说明</h2>\n    <ul class=\"checklist\">\n      <li>选择对应套餐并完成付款后，账户会在本页所述周期内生效。</li>\n      <li>在同一账户下，最多可按套餐对应的设备数量同时连接，超出将被限制登录。</li>\n      <li>流量按自然月计算，未使用部分不结转至次月。</li>\n      <li>如需切换套餐，可在当前周期结束前提交申请，差价按剩余天数折算。</li>\n      <li>旗舰版及以上方案提供优先工单通道，响应时间按工单队列顺序处理。</li>\n    </ul>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq-grid\">\n      <article class=\"faq-item\">\n        <h3>基础版与旗舰版的主要区别是什么？</h3>\n        <p>流量从每月 100GB 提升至 300GB，设备数从 3 台提升至 5 台，并增加全节点原生流媒体解锁与 IPLC 专线优化。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>团队版支持企业定制吗？</h3>\n        <p>支持。团队版包含企业定制路由与专属客户经理，适合多人协作场景。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>套餐流量用完后怎么办？</h3>\n        <p>流量用完后当月将无法继续使用，次月自动恢复，或可提前升级至更高套餐。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>可以申请退款吗？</h3>\n        <p>退款政策以购买时的条款为准，本页不额外承诺具体退款条件。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>设备数量超出限制会怎样？</h3>\n        <p>超过套餐允许数量的设备将无法同时连接，需先退出其中一台再登录新设备。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>年付价格如何计算？</h3>\n        <p>年付为一次性支付对应金额，例如基础版 ¥150/年，相当于按月折算略有优惠。</p>\n      </article>\n    </div>\n  </section>\n\n</main>\n\n<footer>\n  <p>PFvpn · 本页仅提供套餐与使用说明，不构成任何官方承诺。</p>\n</footer>",
+          "hash": "6fac93c192102b302b80394e2cfb5fb68388cb26f6a6cf07be92679e2acf0611",
+          "seo": {
+            "title": "PFvpn | 套餐与常见问题清单",
+            "keywords": "PFvpn, PFvpn 套餐, PFvpn 价格, PFvpn 下载, PFvpn FAQ",
+            "description": "PFvpn 提供基础版、旗舰版与团队版三种方案，以下为价格、设备数量、流量及常见问题的清单说明。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "215",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rplvd.cn",
+    "host": "p-bb19ac2456.rplvd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "af5313746949e6c9fa90f98d82349945bee67cffc0757eac89acc8fec104ae32",
+    "sitemap.xml": "ca5939cf7c4c1c51959741485e9ebbb210041734592939ccf3eac09b09d5222c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2d8f057a4474f978c5b667c265e59ecedd1646d14417eee2e1be3cd309d440da",
+    "robots.txt": "7ded04091a06d135eadd57f40e783d70d5ae054eda3c93d792d81925680ddf7d",
+    "52e33213916a8bd249fd9d172ad8700f.txt": "dda303ed937406b05089aee0622b9d658edf46a8b3ed643744362499f248bf48"
+  },
+  "revision": "47d9536d360ba75bc024ea8e81992ddbcf4fed1a32e9527f8b63078d89463bf9"
+}
